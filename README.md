@@ -1,3 +1,2 @@
-# FIBONACCI-JAVA
-Hello there ! 
-Happy to tell u that I successfully finished my first Java program !
+cats are cute
+let's just live in a world full of cats
