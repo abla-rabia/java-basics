@@ -1,2 +1,2 @@
 # Learn-Java-by-practice
-cats are cute
+Here u can find my collection of first JAVA programs that i've done in order to practice this language very well .
